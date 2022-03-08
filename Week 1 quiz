@@ -1,0 +1,8 @@
+Matplotlib was created by John Hunter, an American neurobiologist, and was originally developed as an EEG/ECoG visualization tool.
+True
+
+Using the inline backend, you can modify a figure after it is rendered.
+False
+
+%matplotlib inline is an example of Matplotlib magic functions.
+True.
