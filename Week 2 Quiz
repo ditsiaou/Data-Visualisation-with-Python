@@ -1,0 +1,19 @@
+Basic Visualization Tools
+
+1.Area plots are stacked by default.
+True
+
+2.Given a pandas series, series_data, which of the following will create a histogram of series_data and align the bin edges with the horizontal tick marks?
+count, bin_edges = np.histogram(series_data)
+series_data.plot(kind='hist', xticks = bin_edges)
+
+3.Given a pandas dataframe, question, which of the following will create a horizontal bar chart of the data in question?
+question.plot(kind='barh')
+
+
+Specialized Visualization Tools
+1.What do the letters in the box plot above represent?
+A = Median, B = Third Quartile, C = First Quartile, D = Inter Quartile Range, E = Minimum, and F = Outliers
+
+2. What is the correct combination of function and parameter to create a box plot in Matplotlib?
+Function = plot, and Parameter = kind with value = "box"
