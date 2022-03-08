@@ -1,0 +1,30 @@
+1.What are the layers that make up the Matplotlib architecture?
+
+Backend Layer, Artist Layer, and Scripting Layer.
+
+2.What layer allows full control and fine-tuning of the Matplotlib – the top-level container for all plot elements?
+Artist layer
+
+3. What is a circular graphic that displays numeric proportions by dividing a circle into proportional slices?
+Pie chart
+
+4. Which of the following is true regarding scatter plots?
+All of the above.
+
+5. A waffle chart is great way to visualize data in relation to a whole, or to do what?
+Highlight progress against a given threshold.
+
+6. Which of the following is NOT TRUE regarding a word cloud?
+A Word Cloud is a depiction of the frequency of the stopwords, such as a, the, and, in some textual data.
+
+7. Which of the following is an incorrect statement regarding Folium?
+Folium is available by default and does not need to be installed.
+
+8. Which of the following is NOT true regarding the Stamen Terrain tile style for Folium maps?
+Is perfect for data mashups and exploring river meanders and coastal zones.
+
+9.Plotly visualizations can be displayed in which of the following ways
+All of the above
+
+10.Which of the following is NOT true regarding Dash core components?
+Higher-level components that are not interactive and generated with JavaScript, HTML, and CSS through the jQuery.js library.
