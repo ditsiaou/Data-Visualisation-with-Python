@@ -1,0 +1,19 @@
+Advanced Visualization Tools
+1.Seaborn is a Python visualization library that provides a high-level interface for visualizing geospatial data.
+False
+
+2.The following code
+import seaborn as sns
+ax = sns.regplot(x="year", y="total", data=data_df, color="green")
+creates the following regression plot.
+False.
+
+Visualizing Geospatial Data
+1.You cluster markers, superimposed onto a map in Folium, using a marker cluster object.
+True.
+
+2. The following code will generate a map of Spain, displaying its hill shading and natural vegetation.
+False
+
+3.A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map.
+True
